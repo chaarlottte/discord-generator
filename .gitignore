@@ -1,0 +1,4 @@
+data/proxies.txt
+test.py
+.venv/
+output/*.txt

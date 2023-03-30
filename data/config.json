@@ -1,0 +1,24 @@
+{
+    "captcha": {
+        "solving_service": "CAPSOLVER",
+        "service_key": "your key",
+
+        "supported solving services": [
+            "DORT", "CAPSOLVER", "ANTICAPTCHA", "CAPMONSTER"
+        ]
+    },
+    "tokens": {
+        "name_mode": "EMOJI",
+        "custom_name": "hi guys",
+        "prefix_or_suffix": "penis gen",
+        "string_length": 32,
+
+        "supported name modes": [
+            "CUSTOM", "PREFIX", "SUFFIX", "EMOJI", "RANDOM", "FILE"
+        ]
+    },
+    "general": {
+        "invite": "9CAHZdU55F",
+        "threads": 250
+    }
+}
