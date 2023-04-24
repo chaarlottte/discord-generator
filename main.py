@@ -102,7 +102,7 @@ def runThread(threadNum: int):
         creator(threadNum, invite).start()
 
 def main():
-    logger = Logger(True, defaultPrefix=f"<TIME> GENERATOR")
+    logger = Logger(True, default_prefix=f"<TIME> | GENERATOR")
     os.system("cls")
     if not os.path.exists("output"): os.mkdir("output")
     logger.info(f"Starting generator...")
