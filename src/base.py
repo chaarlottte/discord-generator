@@ -9,7 +9,7 @@ class AbsoluteBase():
         if taskId < 100:
             if taskId < 10:prefixStr = f"00{taskId}"
             else: prefixStr = f"0{taskId}"
-        self.logger = Logger(False, defaultPrefix=f"<TIME> WORKER-{prefixStr}")
+        self.logger = Logger(False, default_prefix=f"<TIME> | WORKER-{prefixStr}")
         self.session = self.getClient()
 
         proxies = [x.strip() for x in open("data/proxies.txt", "r", encoding="utf8").readlines()]
