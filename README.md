@@ -1,7 +1,7 @@
 # 💬 discord-generator 💻
 An open-source Discord member booster written in Python.
 
-I make stuff like this for free, so if you want to support me, consider [following me on GitHub](https://github.com/chaarlottte), and [⭐️ starring the repository](https://github.com/github/docs/stargazers). 
+I make stuff like this for free, so if you want to support me, consider [following me on GitHub](https://github.com/chaarlottte), and [⭐️starring the repository](https://github.com/chaarlottte/discord-generator/stargazers). 
 thank you so much <3333
 
 ## 🔧 How to use
